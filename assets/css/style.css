@@ -7,6 +7,11 @@ body {
     background-color: #4B949D;
 }
 
+.color-fondo2 {
+    background-color: #2BA1AF;
+}
+
+
 .card img {
     height: 100%;
    
@@ -14,11 +19,21 @@ body {
 
 
 .card p{
-    font-size: 0.875rem
+    font-size: 0.875rem;
+    font-weight: 300;
+}
+
+h5 {
+    font-weight: 700;
+    
 }
 
 #quienes-somos p{
-    font-size: 0.938rem
+    font-size: 0.938rem;
+    font-weight: 300;
 }
 
+h2{
+    font-weight: 700;
+}
 
