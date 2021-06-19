@@ -9,6 +9,16 @@ body {
 
 .card img {
     height: 100%;
-    width: 100%;
+   
 }
+
+
+.card p{
+    font-size: 0.875rem
+}
+
+#quienes-somos p{
+    font-size: 0.938rem
+}
+
 
