@@ -42,9 +42,13 @@ h2{
 }
 
 .modal-body img {
-    height: 80%;
+    height: 100%;
 }
 
 .card button {
     font-size:0.688rem
 }
+
+.modal ul li {
+    list-style-type: square;
+  }
